@@ -1,0 +1,38 @@
+# Freecell Unblocked Online
+
+> Play free unblocked browser games online with no download. Fast-loading HTML5 games including action, racing, multiplayer, sports, puzzle, io games, and arcade classics.
+
+## Main Sections
+
+- Home: https://freecellonline.github.io/
+- Popular Games: https://freecellonline.github.io/popular/
+- All Games: https://freecellonline.github.io/all-games/
+
+## Popular Game Types
+
+- IO Games
+- Racing Games
+- Multiplayer Games
+- Shooting Games
+- Sports Games
+- Puzzle Games
+- Arcade Games
+- Parkour Games
+
+## Featured Games
+
+- https://freecellonline.github.io/class/subway-surfers/
+- https://freecellonline.github.io/class/moto-x3m/
+- https://freecellonline.github.io/class/ovo/
+- https://freecellonline.github.io/class/drift-boss/
+- https://freecellonline.github.io/class/smash-karts/
+- https://freecellonline.github.io/class/run-3/
+- https://freecellonline.github.io/class/tunnel-rush/
+- https://freecellonline.github.io/class/temple-run-2/
+- https://freecellonline.github.io/class/retro-bowl/
+- https://freecellonline.github.io/class/house-of-hazards/
+
+## Policies
+
+- Privacy Policy: https://freecellonline.github.io/privacy-policy/
+- Contact: https://freecellonline.github.io/contact/
